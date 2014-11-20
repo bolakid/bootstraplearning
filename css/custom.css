@@ -12,3 +12,10 @@
 .bcolor{
 background-color:#f6f6f6
 }
+
+.content-box {
+  background-color: #f6f6f6;
+  border: solid 1px #e5e5e5;
+  border-radius: 6px;
+  padding: 25px;
+}
