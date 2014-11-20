@@ -1,0 +1,14 @@
+.block-flat {
+    background: none repeat scroll 0 0 #fff;
+    border-bottom: 1px solid #e2e2e2;
+    border-left: 1px solid #efefef;
+    border-radius: 3px;
+    border-right: 1px solid #efefef;
+    box-shadow: 1px 1px 0 0 rgba(0, 0, 0, 0.04);
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.bcolor{
+background-color:#f6f6f6
+}
